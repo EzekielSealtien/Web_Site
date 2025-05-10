@@ -14,7 +14,7 @@
     <meta property="og:description" content="Découvrez notre site de vente d'appareils électroniques">
     <meta property="og:url" content="https://ezekieltenewebsite-bf4223bacaaf.herokuapp.com/">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="https://ezekieltenewebsite-bf4223bacaaf.herokuapp.com/assets/logo.png"> 
+    <meta property="og:image" content="https://ezekieltenewebsite-bf4223bacaaf.herokuapp.com/assets/logo.png">
 
     <title>EzekTene</title>
 </head>
