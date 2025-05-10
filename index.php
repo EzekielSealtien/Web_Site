@@ -1,6 +1,6 @@
 <?php
 session_start();
-define("URI", "http://localhost/dashboard/projetPDO/");
+define("URI", "https://ezekieltene-website-9cb21c0be777.herokuapp.com/");
 define("ROOT", str_replace("index.php", "", $_SERVER["SCRIPT_FILENAME"]));
 
 include_once ROOT . "autoload.php";
