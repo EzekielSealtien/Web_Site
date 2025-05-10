@@ -8,7 +8,15 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
-    <title>Document</title>
+    
+    
+    <meta property="og:title" content="E-commerce - Appareils électroniques">
+    <meta property="og:description" content="Découvrez notre site de vente d'appareils électroniques">
+    <meta property="og:url" content="https://ezekieltene-website-9cb21c0be777.herokuapp.com">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="https://ezekieltene-website-9cb21c0be777.herokuapp.com/assets/logo.png"> <!-- ou autre image -->
+
+    <title>EzekTene</title>
 </head>
 
 <body>
