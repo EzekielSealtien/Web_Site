@@ -12,9 +12,9 @@
     
     <meta property="og:title" content="E-commerce - Appareils électroniques">
     <meta property="og:description" content="Découvrez notre site de vente d'appareils électroniques">
-    <meta property="og:url" content="https://ezekieltene-website-9cb21c0be777.herokuapp.com">
+    <meta property="og:url" content="https://ezekieltenewebsite-9cb21c0be777.herokuapp.com">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="https://ezekieltene-website-9cb21c0be777.herokuapp.com/assets/logo.png"> <!-- ou autre image -->
+    <meta property="og:image" content="https://ezekieltenewebsite-9cb21c0be777.herokuapp.com/assets/logo.png"> 
 
     <title>EzekTene</title>
 </head>
