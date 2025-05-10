@@ -10,11 +10,6 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
     
     
-    <meta property="og:title" content="E-commerce - Appareils électroniques">
-    <meta property="og:description" content="Découvrez notre site de vente d'appareils électroniques">
-    <meta property="og:url" content="https://ezekieltene-website-9cb21c0be777.herokuapp.com">
-    <meta property="og:type" content="website">
-    <meta property="og:image" content="https://ezekieltene-website-9cb21c0be777.herokuapp.com/assets/logo.png"> <!-- ou autre image -->
 
     <title>EzekTene</title>
 </head>
