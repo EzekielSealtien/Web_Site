@@ -3,7 +3,7 @@
 class  Auth extends Model
 {
     const ADMIN = 1;
-    const CLIENT = 1;
+    const CLIENT = 2;
 
     public function __construct()
     {
