@@ -32,7 +32,7 @@
     <meta name="twitter:description" content="Découvrez le meilleur site de vente d'appareils électroniques">
     <meta name="twitter:image" content="https://ezekieltenewebsite-bf4223bacaaf.herokuapp.com/assets/logo.png">
 
-
+    
     <title>EzekTene</title>
 </head>
 
