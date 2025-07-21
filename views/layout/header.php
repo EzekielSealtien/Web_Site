@@ -4,7 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <title>E-commerce - Appareils électroniques</title>
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="description" content="Découvrez le meilleur site de vente d'appareils électroniques">
+
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
@@ -15,6 +18,20 @@
     <meta property="og:url" content="https://ezekieltenewebsite-bf4223bacaaf.herokuapp.com/">
     <meta property="og:type" content="website">
     <meta property="og:image" content="https://ezekieltenewebsite-bf4223bacaaf.herokuapp.com/assets/logo.png">
+
+    <meta property="og:url" content="https://ezekieltenewebsite-bf4223bacaaf.herokuapp.com/">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="E-commerce - Appareils électroniques">
+    <meta property="og:description" content="Découvrez le meilleur site de vente d'appareils électroniques">
+    <meta property="og:image" content="https://ezekieltenewebsite-bf4223bacaaf.herokuapp.com/assets/logo.png">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta property="twitter:domain" content="ezekieltenewebsite-bf4223bacaaf.herokuapp.com">
+    <meta property="twitter:url" content="https://ezekieltenewebsite-bf4223bacaaf.herokuapp.com/">
+    <meta name="twitter:title" content="E-commerce - Appareils électroniques">
+    <meta name="twitter:description" content="Découvrez le meilleur site de vente d'appareils électroniques">
+    <meta name="twitter:image" content="https://ezekieltenewebsite-bf4223bacaaf.herokuapp.com/assets/logo.png">
+
 
     <title>EzekTene</title>
 </head>
